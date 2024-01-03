@@ -105,15 +105,14 @@ main{
     width: 117px;
     height: 34px;
     position: relative;
-    top: -39px;
+    top: -42px;
     border-radius: 10px;
     border: none;
     background-color: rgb(255, 127, 0);
     font-size: 16px;
     cursor: pointer;
-    left: 398px;
-  }
-
+    left: 353px;
+}
 .fa-solid {
     
     font-size: 19px;
